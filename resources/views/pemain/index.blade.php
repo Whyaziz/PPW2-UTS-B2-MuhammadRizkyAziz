@@ -7,9 +7,9 @@
     <h1 class="px-16 mt-8 mb-8 text-bold font-weight-bold text-[30px]">Pemain</h1>
 
     
-<div class="relative overflow-x-auto px-16">
-    <table class="w-full text-sm text-left text-white p-8">
-        <thead class="text-xs text-gray-700 uppercase bg-red-200">
+<div class="card p-8">
+    <table class="w-ful">
+        <thead class="uppercase">
         <tr>
             <th scope="col">No</th>
             <th scope="col">Nama</th>
